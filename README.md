@@ -1,4 +1,5 @@
  🦠 Vaccination Impact on COVID-19 Fatality Rate in India
+
 📌 Project Overview
 This mini project analyzes the impact of COVID-19 vaccinations on the fatality rate in India using data analysis techniques in Python. The goal is to explore how vaccination progress correlated with the reduction in COVID-19 deaths over time.
 We use a real-world dataset containing daily COVID-19 cases, deaths, and vaccination numbers in India. The analysis helps us understand the effectiveness of the vaccination drive in reducing fatalities.
