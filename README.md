@@ -35,7 +35,7 @@ The dataset contains the following columns:
 
 👩‍💻 Author
 
-**Sharmila P**  
+**Sarmila P**  
 BSc Computer Science  
 Email: sharmila200416@gmail.com  
 
